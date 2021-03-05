@@ -8,7 +8,7 @@
     "amd64",
     "armhf"
   ],
-  "url": "https://github.com/ulf111/jpgsync",
+  "url": "https://github.com/ulf111/syncjpg",
   "startup": "services",
   "webui": "http://[HOST]:[PORT:8000]/gb",
   "hassio_api": true,
