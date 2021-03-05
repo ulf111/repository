@@ -16,8 +16,8 @@
   "homeassistant_api": true,
   "map": ["config", "ssl", "addons", "backup:rw", "share"],
   "options": {
-    "fromPattern" : "/backup/*.tar",
-    "backupDirID" : "Some_Google_Drive_Unique_Opaque_Folder_ID",
+    "fromPattern" : "/config/www/Klingel/*.jpg",
+    "backupDirID" : "1PstwLG1Ck_vP9f-JYo6f3fRs3dpNRDPA",
     "purge" : {"enabled" : false, "preserve" : 3},
     "purge_google" : {"enabled" : false, "preserve" : 12},
     "debug" : false},
